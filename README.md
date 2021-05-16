@@ -1,1 +1,1 @@
-# covidAssignment
+# covid
